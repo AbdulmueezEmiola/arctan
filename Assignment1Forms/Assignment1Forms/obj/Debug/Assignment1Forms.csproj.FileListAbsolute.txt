@@ -1,0 +1,10 @@
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.csprojAssemblyReference.cache
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.Form1.resources
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.Properties.Resources.resources
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.csproj.GenerateResource.cache
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.csproj.CoreCompileInputs.cache
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\bin\Debug\Assignment1Forms.exe.config
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\bin\Debug\Assignment1Forms.exe
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\bin\Debug\Assignment1Forms.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.exe
+C:\Users\emiol\Desktop\2nd year Assignment\STP\Assignment1Forms\Assignment1Forms\obj\Debug\Assignment1Forms.pdb
